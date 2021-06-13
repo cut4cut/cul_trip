@@ -1,4 +1,5 @@
-# cul_trip
+# Рекомендательная система для хакатона [moscityhack](https://moscityhack.innoagency.ru)
+
 
 
 
